@@ -1,2 +1,2 @@
 
-Self Study of Angela Yu Web Development Course
+Self Study of Angela Yu Web Development Course Bootcamp
